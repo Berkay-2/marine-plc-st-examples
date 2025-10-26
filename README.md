@@ -1,6 +1,6 @@
 # marine-plc-st-examples
 Structured Text (IEC 61131-3) examples for marine automation systems — pumps, alarms, and monitoring logic.
-# Marine PLC Structured Text Examples ⚙️
+# Marine PLC Structured Text Examples 
 
 This repository includes **Structured Text (IEC 61131-3)** examples for common **marine automation systems** such as pumps, alarms, and tank level controls.  
 The goal is to demonstrate practical control logic used on board ships.
